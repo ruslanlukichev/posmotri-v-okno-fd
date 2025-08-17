@@ -8,8 +8,8 @@
 }
 
 .error__title {
-  color: #fff;
-  font-family: Oswald, sans-serif;
+  color: hsl(0, 0%, 100%);
+  font-family: "Oswald", "Arial", sans-serif;
   font-size: 30px;
   text-align: center;
   text-transform: uppercase;
