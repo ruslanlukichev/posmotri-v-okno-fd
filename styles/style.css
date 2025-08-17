@@ -109,7 +109,7 @@ ol {
   width: fit-content;
 }
 
-.search-form__label_checkbox .search-form__label-text:hover {
+.search-form__label_checkbox:hover .search-form__label-text {
   text-decoration: underline;
   cursor: pointer;
 }
@@ -302,6 +302,7 @@ ol {
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
+  max-width: 196px;
 }
 
 .content__video-card-description {
